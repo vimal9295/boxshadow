@@ -1,0 +1,22 @@
+{
+  "name": "boxshadowyy",
+  "version": "1.0.0",
+  "description": "Add Box Shadow Style for Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimal9295/boxshadow.git"
+  },
+  "keywords": [
+    "BoxShadows"
+  ],
+  "author": "Vimal Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimal9295/boxshadow/issues"
+  },
+  "homepage": "https://github.com/vimal9295/boxshadow#readme"
+}
